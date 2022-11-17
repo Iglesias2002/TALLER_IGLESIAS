@@ -1,0 +1,4 @@
+ 
+Trabajo [identificador=0, numHoras=0, tipo=3, descripcion=pollo, finalizado=true, piezas=0.0] 
+Trabajo [identificador=1, numHoras=0, tipo=2, descripcion=pollo, finalizado=false, piezas=0.0] 
+Trabajo [identificador=1, numHoras=1, tipo=1, descripcion=1, finalizado=true, piezas=1.0]
